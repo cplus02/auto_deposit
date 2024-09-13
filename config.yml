@@ -1,0 +1,4 @@
+# Design a configuration file that contains common used password
+
+password:
+  user: "123qwe"
